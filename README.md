@@ -1,4 +1,8 @@
 G-RP
 ====
 
-G-RP free gamemod for Garry's Mod.
+G-RP This is free gamemod for Garry's Mod.
+
+==
+E-Mail:  demsergey97@gmail.com
+Steam: dem_sergey
